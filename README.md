@@ -31,4 +31,5 @@ git clone https://github.com/BR903/ELFkickers ELF;cd ELF;make && make install
 nano /etc/sysctl.conf <!--- 
 https://javapipe.com/blog/iptables-ddos-protection/
 --->
-- https://javapipe.com/wp-content/uploads/2019/05/wow.gif.webp
+
+![WOW](https://javapipe.com/wp-content/uploads/2019/05/wow.gif.webp)
