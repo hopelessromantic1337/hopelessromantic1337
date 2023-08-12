@@ -57,6 +57,8 @@ https://javapipe.com/blog/iptables-ddos-protection/
 
 <div style="text-align:center"><img src="https://camo.githubusercontent.com/7614d7d440b1777d7a316542db5fbf765a365c33802ec76d867e8f611f8b9485/68747470733a2f2f66696c65732e646f7862696e2e67672f75465139457763752e706e67" /></div>.
 
+![Quality-Shop](https://www.pressherald.com/wp-content/uploads/sites/4/2012/07/portland-press-herald_3660381.jpg)
+
 ![Private](https://college.holycross.edu/faculty/vlapomar/val.jpg)
 
 ![MIB](https://files.doxbin.gg/35uhiBVl.png)
