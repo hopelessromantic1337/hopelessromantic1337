@@ -32,6 +32,8 @@ nano /etc/sysctl.conf <!---
 https://javapipe.com/blog/iptables-ddos-protection/
 --->
 
+![Private-Army](https://archive.is/pjmeD/baf14156fcee60b3edbba79a7c1aa91bbf772591.jpg)
+
 ![MIB](https://files.doxbin.gg/35uhiBVl.png)
 
 ![Mother-Ship](https://camo.githubusercontent.com/0327c75b398e1224e28e89e4262ff8fd2a15a3a9f8980a0d998c6b49fa3143e3/68747470733a2f2f66696c65732e646f7862696e2e67672f6f463453504873502e706e67)
