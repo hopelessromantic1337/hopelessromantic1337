@@ -32,4 +32,6 @@ nano /etc/sysctl.conf <!---
 https://javapipe.com/blog/iptables-ddos-protection/
 --->
 
+![Mother-Ship](https://files.doxbin.gg/oF4SPHsP.png)
+
 ![WOW](https://javapipe.com/wp-content/uploads/2019/05/wow.gif.webp)
