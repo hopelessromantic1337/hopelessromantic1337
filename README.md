@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hopelessromantic1337
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Projects, Farms, Computing. etc.
 - 📫 How to reach me ...
 
 <!---
@@ -26,11 +26,15 @@ apt-get update ; apt-get dist-upgrade ; apt-get install curl aria2 build-essenti
 
 /bin/bash -c "$(curl -sL https://git.io/vokNn)"
 
-git clone https://github.com/BR903/ELFkickers ELF;cd ELF;make && make install
+curl https://gist.githubusercontent.com/hopelessromantic1337/ef522cdb84fabfec8a8dd2bceff0d96a/raw/15e3e1e934e80d09930e8618a378b12c71c80ec1/keybase.md -O keybase.pgp 
 
 nano /etc/sysctl.conf <!--- 
 https://javapipe.com/blog/iptables-ddos-protection/
 --->
+
+https://gist.github.com/ef522cdb84fabfec8a8dd2bceff0d96a.git 
+
+![MIT](![image](https://github.com/hopelessromantic1337/hopelessromantic1337/assets/142055686/172ae144-877e-4fac-b911-91679e10099b))
 
 ![Mother-Ship](https://files.doxbin.gg/oF4SPHsP.png)
 
