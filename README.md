@@ -32,7 +32,7 @@ nano /etc/sysctl.conf <!---
 https://javapipe.com/blog/iptables-ddos-protection/
 --->
 
-![Private-Army](https://archive.is/pjmeD/baf14156fcee60b3edbba79a7c1aa91bbf772591.jpg)
+![Private](https://files.doxbin.gg/uFQ9Ewcu.png)
 
 ![MIB](https://files.doxbin.gg/35uhiBVl.png)
 
