@@ -10,12 +10,42 @@ https://store-us.gl-inet.com/products/free-shipping-us-local-delivery-mudi-gl-e7
 https://www.buymeacoffee.com/politictech/connect-device-online-by-sharing-ethernet-linux
 https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html
 
-$35,439.00 - https://system76.com/desktops/thelio-mega 
-$45,799.63 - XL60 (Hybrid 32) - Turbo X * hard drives and 32 solid state drives 
+Phone Supply: https://swappa.com/buy/unlocked
+https://swappa.com/listings/google-pixel-5a-5g - Google Pixel 5a 5G Unlocked - $160-200 USD
+https://www.yubico.com/product/yubikey-5-series/yubikey-5c-nano/ YubiKey 5C Nano - $65.00 USD
+https://www.yubico.com/product/yubikey-5-series/yubikey-5c/ YubiKey 5C - $55.00 USD
 
-https://www.45drives.com/products/hard-drives/ - HDD's & SSD's 
+Router: 
+https://store-us.gl-inet.com/products/beryl-ax-gl-mt3000-pocket-sized-wi-fi-6-wireless-travel-gigabit-router - $129.00 USD
+https://store-us.gl-inet.com/collections/home-routers/products/gl-sf1200-wireless-gigabit-router-dual-band-openvpn - $35.00 USD
 
-https://pine64.com/product/14%e2%80%b3-pinebook-pro-linux-laptop-ansi-us-keyboard/
+Server Supply:
+https://www.ovhcloud.com/en/bare-metal/high-grade/hgr-hci-6/ - $3,776.99 /month +$1,194.99 | No set up fees (24 months commitment)
+- https://www.45drives.com/products/hard-drives/ - HDD's & SSD's (If needed)
+- https://system76.com/desktops/thelio-mega (Custom Build) $variable
+
+Laptop/Desktop:
+https://www.razer.com/gaming-laptops/razer-blade-14/select-model - $1,999.99 USD
+https://pine64.com/product/14%e2%80%b3-pinebook-pro-linux-laptop-ansi-us-keyboard/ - $299.99 USD
+
+Backup Power:
+https://www.apc.com/us/en/product/SMT1500C/apc-smartups-line-interactive-1500va-tower-120v-8x-nema-515r-outlets-smartconnect-port+smartslot-avr-lcd - $679.00 USD
+
+Security Device: 
+- YubiKey 5C NFC $55.00 USD
+
+Google Pixel 5a 5G Unlocked: $200 USD
+YubiKeys:
+YubiKey 5C Nano: $65.00 USD
+YubiKey 5C: $55.00 USD
+GL-MT3000 Pocket-sized Wi-Fi 6 Wireless Router: $129.00 USD
+GL-SF1200 Wireless Gigabit Router: $35.00 USD
+OVHcloud High Grade HCI-6 (24 months commitment): $3,776.99 USD + $1,194.99 USD = $4,971.98 USD
+Razer Blade 14: $1,999.99 USD
+Pinebook Pro Linux Laptop: $299.99 USD
+APC Smart-UPS Line Interactive 1500VA: $679.00 USD
+Final Value: $200.00 (Pixel 5a) + $65.00 (YubiKey 5C Nano) + $55.00 (YubiKey 5C) + $129.00 (GL-MT3000) + $35.00 (GL-SF1200) + $4,971.98 (OVHcloud Server) + $1,999.99 (Razer Blade 14) + $299.99 (Pinebook Pro) + $679.00 (APC UPS) = $9,434.96 USD
+
 
 Recipient: ARKATECHTURE
 Location: PORTLAND, ME
