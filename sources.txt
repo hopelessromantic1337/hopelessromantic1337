@@ -20,6 +20,7 @@ https://www.yubico.com/product/yubikey-5-series/yubikey-5c/
 Router: 
 https://store-us.gl-inet.com/products/beryl-ax-gl-mt3000-pocket-sized-wi-fi-6-wireless-travel-gigabit-router - $129.00 USD
 https://store-us.gl-inet.com/collections/home-routers/products/gl-sf1200-wireless-gigabit-router-dual-band-openvpn - $35.00 USD
+https://store.ui.com/us/en/pro/category/all-unifi-gateway-consoles/products/udw | Dream Wall - $999.00
 
 Server Supply:
 https://www.ovhcloud.com/en/bare-metal/high-grade/hgr-hci-6/ - $3,776.99 /month +$1,194.99 | No set up fees (24 months commitment)
