@@ -46,12 +46,6 @@ When he died in Portland, on 20 March 1943, Erasmo had been among the city's Ita
 As for the publication of Father Vincent's books, they include The Jesuit Heritage in New England (1977), The Knights of Columbus in Massachusets (1982, 1992, and 2004), The Jesuits and the Third Reich (1989 and 2005), The Order of Alhambra (1994 and 2004), The Boston Mayor Who Became Truman's Secretary of Labor (1995), Charles Nolcini (1997), The Catholic Church in the Land of the Holy Cross (2003), The Jesuits in the United States (2004), A Bibliography of the Published Writings of Vincent A. Lapomarda (2004), A Century of  Judges of Italian Descent in Massachusetts (2005), and A Half Century of Mayors of Italian Descent in Massachusetts (2006).
 ```
 
-<!--- https://javapipe.com/blog/iptables-ddos-protection/  --->
-<!--- https://www.mi.com/global/product/xiaomi-13-pro/  --->
-<!---  --->
-<!---  --->
-
-
 <div style="text-align:center"><img src="https://camo.githubusercontent.com/159b8403bf4a6988ba46689e7225679c0803f57efa1668ef9f0d9bdfe1cc091a/68747470733a2f2f66696c65732e646f7862696e2e67672f333575686942566c2e706e67" /></div>.
 
 <div style="text-align:center"><img src="https://camo.githubusercontent.com/7614d7d440b1777d7a316542db5fbf765a365c33802ec76d867e8f611f8b9485/68747470733a2f2f66696c65732e646f7862696e2e67672f75465139457763752e706e67" /></div>.
