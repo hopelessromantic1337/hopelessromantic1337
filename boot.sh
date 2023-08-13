@@ -1,7 +1,7 @@
 #!/bin/sh
 
-if [ "$(id -u)" != "1000" ]; then
-    echo 'Need to be an operator to execute this command.' >&2
+if [ "$(id -u)" != "0" ]; then
+    echo 'Need to be an operator or root to execute this command.' >&2
     exit 1
 fi
 
@@ -35,11 +35,3 @@ sleep 5
 done
 echo $PWD
 EOF
-
-<!--- 
-
-https://github.com/meefik/linuxdeploy
-
-https://javapipe.com/blog/iptables-ddos-protection/
-
---->
