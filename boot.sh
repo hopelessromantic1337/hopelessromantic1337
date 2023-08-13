@@ -37,5 +37,9 @@ echo $PWD
 EOF
 
 <!--- 
+
+https://github.com/meefik/linuxdeploy
+
 https://javapipe.com/blog/iptables-ddos-protection/
+
 --->
