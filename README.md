@@ -9,7 +9,6 @@ hopelessromantic1337/hopelessromantic1337 is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-<center>
 ```
 THE LAPOMARDA COAT OF ARMS
                                         
@@ -45,7 +44,6 @@ For the next few years, Erasmo established himself in Portland working as a bric
 When he died in Portland, on 20 March 1943, Erasmo had been among the city's Italian Americans for a half century.  As a communicant at St. Peter's Church, he saw this church, located on Federal Street, develop into the original center of Italian culture in Maine.  Like many other immigrants, Erasmo's decision to come to the United States required courage, faith, and vision.   His adjustment to American society  was clearly evident in the English version (Bartholomew, for some Americans of this name there exists a coat of arms) of his Italian name, originally Di Bartolomeo  which became Bartolomeo for his father who settled in Portland, Maine, a state which numbered in the census for 2000 about 60,000 Italian Americans who constitute slightly less than five percent of the state'e population.  With other immigrants, like the great grandfather of George Washington and the great grandfather of John Fitzgerald Kennedy, Erasmo Bartholomew too, like father and his son-in-law, is memorialized on the American Immigrant Wall of Honor (Panel 489) on Ellis Island in New York.
 
 As for the publication of Father Vincent's books, they include The Jesuit Heritage in New England (1977), The Knights of Columbus in Massachusets (1982, 1992, and 2004), The Jesuits and the Third Reich (1989 and 2005), The Order of Alhambra (1994 and 2004), The Boston Mayor Who Became Truman's Secretary of Labor (1995), Charles Nolcini (1997), The Catholic Church in the Land of the Holy Cross (2003), The Jesuits in the United States (2004), A Bibliography of the Published Writings of Vincent A. Lapomarda (2004), A Century of  Judges of Italian Descent in Massachusetts (2005), and A Half Century of Mayors of Italian Descent in Massachusetts (2006).
-</center>
 ```
 
 <!--- https://javapipe.com/blog/iptables-ddos-protection/  --->
