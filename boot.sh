@@ -1,37 +1,44 @@
-#!/bin/sh
+#!/bin/bash
 
-if [ "$(id -u)" != "0" ]; then
-    echo 'Need to be an operator or root to execute this command.' >&2
+# Check if running as root
+if [ "$(id -u)" -ne 0 ]; then
+    echo 'Need to be root to execute this command.' >&2
     exit 1
 fi
 
-apt-get -y update && apt-get -y dist-upgrade
+# Update and upgrade packages
+apt update -y && apt full-upgrade -y
 
-/bin/bash -c "$(curl -sL https://git.io/vokNn)"
+# Install apt-fast if not already installed
+if ! command -v apt-fast &> /dev/null; then
+    bash -c "$(curl -sL https://git.io/vokNn)"
+fi
 
-apt-fast install curl aria2 build-essential git -y
+# Install required packages using apt-fast
+apt-fast install -y curl aria2 build-essential git
 
-# Password for L33T Admin Account - 2IL@ove19Pizza4_
+# Create user 'oper' with encrypted password (avoid hardcoding in production; consider alternatives like passwd after creation)
+useradd -m -p "$(perl -e 'print crypt("2IL@ove19Pizza4_", "salt")')" oper
 
-# useradd -m -p EncryptedPasswordHere username
+# Clone, build, and install ELFkickers
+git clone https://github.com/BR903/ELFkickers ELF
+pushd ELF || exit 1
+make && make install
+popd
 
-perl -e 'print crypt("2IL@ove19Pizza4_", "salt"),"Is the Password for user:oper \n"'
+# Update sysctl.conf if the file exists in the cloned repo
+if [ -f ELF/sysctl.conf ]; then
+    cp ELF/sysctl.conf /etc/sysctl.conf && sysctl -p
+fi
 
-useradd -m -p $(perl -e 'print crypt("2IL@ove19Pizza4_", "salt"),"\n"') oper
-
-#echo 'oper:newpassword' | chpasswd # change user "oper" password to newpassword # 2IL@ove19Pizza4_
-
-git clone https://github.com/BR903/ELFkickers ELF;cd ELF;make && make install
-
-cat $(pwd)/sysctl.conf > /etc/sysctl.conf | sysctl -p
-
+# Create clock.sh script
 cat <<EOF > clock.sh
 #!/bin/bash
-echo \$PWD
-while [ 1 -eq 1 ]
-do
-sleep 5
-/sbin/hwclock --hctosys
+while true; do
+    sleep 5
+    /sbin/hwclock --hctosys
 done
-echo $PWD
 EOF
+
+# Make clock.sh executable
+chmod +x clock.sh
